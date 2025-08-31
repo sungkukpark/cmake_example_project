@@ -6,5 +6,6 @@
 
 int32_t main() {
     std::cout << "Hello, World!" << std::endl;
+    std::cout << "My name is Sungkuk Park" << std::endl;
     return 0;
 }
